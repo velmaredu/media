@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Phyllis Mueller",
+      "id": 7
+    },
+    {
+      "name": "Omar Bechtelar",
+      "id": 8
+    },
+    {
+      "name": "Freda Schowalter",
+      "id": 9
+    },
+    {
+      "name": "Emmett Walker",
+      "id": 10
+    },
+    {
+      "name": "Barry Walsh",
+      "id": 11
+    },
+    {
+      "name": "Orlando Cassin",
+      "id": 12
+    },
+    {
+      "name": "Miss Jasmine Deckow",
+      "id": 13
+    },
+    {
+      "name": "Marlene Buckridge",
+      "id": 14
+    }
+  ],
+  "alubms": [],
+  "photos": []
+}
