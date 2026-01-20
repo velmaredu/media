@@ -1,42 +1,41 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Phyllis Mueller",
-      "id": 7
-    },
-    {
-      "name": "Omar Bechtelar",
-      "id": 8
-    },
-    {
       "name": "Freda Schowalter",
       "id": 9
     },
     {
       "name": "Emmett Walker",
       "id": 10
-    },
+    }
+  ],
+  "albums": [
     {
-      "name": "Barry Walsh",
+      "userId": 9,
+      "title": "Modern Fresh Shoes",
       "id": 11
     },
     {
-      "name": "Orlando Cassin",
+      "userId": 10,
+      "title": "Modern Frozen Bacon",
       "id": 12
-    },
-    {
-      "name": "Miss Jasmine Deckow",
-      "id": 13
-    },
-    {
-      "name": "Marlene Buckridge",
-      "id": 14
     }
   ],
-  "alubms": [],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60915",
+      "id": 1
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11187",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49824",
+      "id": 3
+    }
+  ]
 }
